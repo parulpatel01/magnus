@@ -1,1 +1,1 @@
-# magnus
+# magnus project
